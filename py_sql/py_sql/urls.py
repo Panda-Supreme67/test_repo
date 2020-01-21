@@ -20,6 +20,6 @@ from home import views
 # from django.urls import path
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url('', views.home),
+    url(r'^home/', views.home),
     url(r'cache/', views.cache)
 ]
