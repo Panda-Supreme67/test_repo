@@ -1,4 +1,4 @@
-django == 1.11.28
+django == 1.11.29
 #cPython
 cryptography
 pymysql == 0.9.3
